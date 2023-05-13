@@ -18,4 +18,4 @@ Attach the `PoseCopier` script to the GameObject you want to copy. In the Unity 
 
 ## Note
 
-This script uses the system clipboard to store data, which means the copied data may be lost if another application uses the clipboard or the computer is restarted. If you need to store poses for a longer period or across multiple sessions, consider implementing a more permanent storage solution, such as data serialization to a file.
+This script uses the system clipboard to store data, which means the copied data may be lost if another application uses the clipboard or the computer is restarted.
